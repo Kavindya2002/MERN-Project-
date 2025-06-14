@@ -1,0 +1,31 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+}
+
+.header{
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 3px 40px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+  background-color: #212529;
+}
+
+.SideMenuAndPageContent {
+  display: flex;
+  flex: 1;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.SideMenu {
+
+}
+
+.PageContent {
+  padding: 15px;
+}
