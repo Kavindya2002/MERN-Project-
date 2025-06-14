@@ -1,6 +1,6 @@
-# Ruu-Lanka-Clothing-Factory
-Ruu Lanka Clothing Factory Management System
-This repository contains the source code for the Ruu Lanka Clothing Factory Management System, a comprehensive web application designed to streamline operations for the clothing manufacturing process. Built using the MERN stack (MongoDB, Express, React, Node.js), the system provides an efficient solution for managing various aspects of factory operations, including:
+# Clothing-Factory
+Clothing Factory Management System
+This repository contains the source code for the Clothing Factory Management System, a comprehensive web application designed to streamline operations for the clothing manufacturing process. Built using the MERN stack (MongoDB, Express, React, Node.js), the system provides an efficient solution for managing various aspects of factory operations, including:
 
 Employee Management: Add, update, and manage employee records and roles within the factory.
 Inventory Management: Track materials, product stock, and reorder supplies when needed.
